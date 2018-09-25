@@ -1,16 +1,21 @@
 _repo: The-Forest-Beyond-the-Woodlands-A-Fairy-Tale_57604
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Knowlton, Vianna
     gutenberg_agent_id: '49520'
     url: http://www.gutenberg.org/2009/agents/49520
+covers:
+- cover_type: archival
+  image_path: 57604-h/images/cover.jpg
 creator:
   author:
     agent_name: Kennedy, Mildred
     gutenberg_agent_id: '49519'
     url: http://www.gutenberg.org/2009/agents/49519
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57604#The-Forest-Beyond-the-Woodlands-A-Fairy-Tale
 gutenberg_issued: '2018-08-05'
 gutenberg_type: Text
 identifiers:
